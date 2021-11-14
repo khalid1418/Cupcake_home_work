@@ -59,7 +59,7 @@ class PickupFragment : Fragment() {
 
 
 
-            nextButton.setOnClickListener { goToNextScreen() }
+
         }
     }
 

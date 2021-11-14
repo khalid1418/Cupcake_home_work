@@ -57,7 +57,7 @@ class FlavorFragment : Fragment() {
 
 
 
-            nextButton.setOnClickListener { goToNextScreen() }
+
         }
     }
 
